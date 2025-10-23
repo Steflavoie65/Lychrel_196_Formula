@@ -1,0 +1,4862 @@
+[
+  {
+    "n": 100,
+    "T(n)": 101,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 102,
+    "T(n)": 303,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 103,
+    "T(n)": 404,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 104,
+    "T(n)": 505,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 105,
+    "T(n)": 606,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 106,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 107,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 108,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 109,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 110,
+    "T(n)": 121,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 112,
+    "T(n)": 323,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 113,
+    "T(n)": 424,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 114,
+    "T(n)": 525,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 115,
+    "T(n)": 626,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 116,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 117,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 118,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 119,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 120,
+    "T(n)": 141,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 122,
+    "T(n)": 343,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 123,
+    "T(n)": 444,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 124,
+    "T(n)": 545,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 125,
+    "T(n)": 646,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 126,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 127,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 128,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 129,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 130,
+    "T(n)": 161,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 132,
+    "T(n)": 363,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 133,
+    "T(n)": 464,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 134,
+    "T(n)": 565,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 135,
+    "T(n)": 666,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 136,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 137,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 138,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 139,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 140,
+    "T(n)": 181,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 142,
+    "T(n)": 383,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 143,
+    "T(n)": 484,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 144,
+    "T(n)": 585,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 145,
+    "T(n)": 686,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 146,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 147,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 148,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 149,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 150,
+    "T(n)": 201,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 152,
+    "T(n)": 403,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 153,
+    "T(n)": 504,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 154,
+    "T(n)": 605,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 155,
+    "T(n)": 706,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 156,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 157,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 158,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 159,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 160,
+    "T(n)": 221,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 162,
+    "T(n)": 423,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 163,
+    "T(n)": 524,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 164,
+    "T(n)": 625,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 165,
+    "T(n)": 726,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 166,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 167,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 168,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 169,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 170,
+    "T(n)": 241,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 172,
+    "T(n)": 443,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 173,
+    "T(n)": 544,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 174,
+    "T(n)": 645,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 175,
+    "T(n)": 746,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 176,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 177,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 178,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 179,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 180,
+    "T(n)": 261,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 182,
+    "T(n)": 463,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 183,
+    "T(n)": 564,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 184,
+    "T(n)": 665,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 185,
+    "T(n)": 766,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 186,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 187,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 188,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 189,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 190,
+    "T(n)": 281,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 192,
+    "T(n)": 483,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 193,
+    "T(n)": 584,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 194,
+    "T(n)": 685,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 195,
+    "T(n)": 786,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 196,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 197,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 198,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 199,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 200,
+    "T(n)": 202,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 201,
+    "T(n)": 303,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 203,
+    "T(n)": 505,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 204,
+    "T(n)": 606,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 205,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 206,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 207,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 208,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 209,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 210,
+    "T(n)": 222,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 211,
+    "T(n)": 323,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 213,
+    "T(n)": 525,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 214,
+    "T(n)": 626,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 215,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 216,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 217,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 218,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 219,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 220,
+    "T(n)": 242,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 221,
+    "T(n)": 343,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 223,
+    "T(n)": 545,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 224,
+    "T(n)": 646,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 225,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 226,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 227,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 228,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 229,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 230,
+    "T(n)": 262,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 231,
+    "T(n)": 363,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 233,
+    "T(n)": 565,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 234,
+    "T(n)": 666,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 235,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 236,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 237,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 238,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 239,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 240,
+    "T(n)": 282,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 241,
+    "T(n)": 383,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 243,
+    "T(n)": 585,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 244,
+    "T(n)": 686,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 245,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 246,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 247,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 248,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 249,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 250,
+    "T(n)": 302,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 251,
+    "T(n)": 403,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 253,
+    "T(n)": 605,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 254,
+    "T(n)": 706,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 255,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 256,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 257,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 258,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 259,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 260,
+    "T(n)": 322,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 261,
+    "T(n)": 423,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 263,
+    "T(n)": 625,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 264,
+    "T(n)": 726,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 265,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 266,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 267,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 268,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 269,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 270,
+    "T(n)": 342,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 271,
+    "T(n)": 443,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 273,
+    "T(n)": 645,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 274,
+    "T(n)": 746,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 275,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 276,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 277,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 278,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 279,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 280,
+    "T(n)": 362,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 281,
+    "T(n)": 463,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 283,
+    "T(n)": 665,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 284,
+    "T(n)": 766,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 285,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 286,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 287,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 288,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 289,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 290,
+    "T(n)": 382,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 291,
+    "T(n)": 483,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 293,
+    "T(n)": 685,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 294,
+    "T(n)": 786,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 295,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 296,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 297,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 298,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 299,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 300,
+    "T(n)": 303,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 301,
+    "T(n)": 404,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 302,
+    "T(n)": 505,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 304,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 305,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 306,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 307,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 308,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 309,
+    "T(n)": 1212,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 310,
+    "T(n)": 323,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 311,
+    "T(n)": 424,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 312,
+    "T(n)": 525,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 314,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 315,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 316,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 317,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 318,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 319,
+    "T(n)": 1232,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 320,
+    "T(n)": 343,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 321,
+    "T(n)": 444,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 322,
+    "T(n)": 545,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 324,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 325,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 326,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 327,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 328,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 329,
+    "T(n)": 1252,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 330,
+    "T(n)": 363,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 331,
+    "T(n)": 464,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 332,
+    "T(n)": 565,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 334,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 335,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 336,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 337,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 338,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 339,
+    "T(n)": 1272,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 340,
+    "T(n)": 383,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 341,
+    "T(n)": 484,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 342,
+    "T(n)": 585,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 344,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 345,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 346,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 347,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 348,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 349,
+    "T(n)": 1292,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 350,
+    "T(n)": 403,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 351,
+    "T(n)": 504,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 352,
+    "T(n)": 605,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 354,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 355,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 356,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 357,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 358,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 359,
+    "T(n)": 1312,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 360,
+    "T(n)": 423,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 361,
+    "T(n)": 524,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 362,
+    "T(n)": 625,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 364,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 365,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 366,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 367,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 368,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 369,
+    "T(n)": 1332,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 370,
+    "T(n)": 443,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 371,
+    "T(n)": 544,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 372,
+    "T(n)": 645,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 374,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 375,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 376,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 377,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 378,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 379,
+    "T(n)": 1352,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 380,
+    "T(n)": 463,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 381,
+    "T(n)": 564,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 382,
+    "T(n)": 665,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 384,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 385,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 386,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 387,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 388,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 389,
+    "T(n)": 1372,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 390,
+    "T(n)": 483,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 391,
+    "T(n)": 584,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 392,
+    "T(n)": 685,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 394,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 395,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 396,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 397,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 398,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 399,
+    "T(n)": 1392,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 400,
+    "T(n)": 404,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 401,
+    "T(n)": 505,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 402,
+    "T(n)": 606,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 403,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 405,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 406,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 407,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 408,
+    "T(n)": 1212,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 409,
+    "T(n)": 1313,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 410,
+    "T(n)": 424,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 411,
+    "T(n)": 525,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 412,
+    "T(n)": 626,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 413,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 415,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 416,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 417,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 418,
+    "T(n)": 1232,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 419,
+    "T(n)": 1333,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 420,
+    "T(n)": 444,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 421,
+    "T(n)": 545,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 422,
+    "T(n)": 646,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 423,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 425,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 426,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 427,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 428,
+    "T(n)": 1252,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 429,
+    "T(n)": 1353,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 430,
+    "T(n)": 464,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 431,
+    "T(n)": 565,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 432,
+    "T(n)": 666,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 433,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 435,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 436,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 437,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 438,
+    "T(n)": 1272,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 439,
+    "T(n)": 1373,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 440,
+    "T(n)": 484,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 441,
+    "T(n)": 585,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 442,
+    "T(n)": 686,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 443,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 445,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 446,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 447,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 448,
+    "T(n)": 1292,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 449,
+    "T(n)": 1393,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 450,
+    "T(n)": 504,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 451,
+    "T(n)": 605,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 452,
+    "T(n)": 706,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 453,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 455,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 456,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 457,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 458,
+    "T(n)": 1312,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 459,
+    "T(n)": 1413,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 460,
+    "T(n)": 524,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 461,
+    "T(n)": 625,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 462,
+    "T(n)": 726,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 463,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 465,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 466,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 467,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 468,
+    "T(n)": 1332,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 469,
+    "T(n)": 1433,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 470,
+    "T(n)": 544,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 471,
+    "T(n)": 645,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 472,
+    "T(n)": 746,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 473,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 475,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 476,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 477,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 478,
+    "T(n)": 1352,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 479,
+    "T(n)": 1453,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 480,
+    "T(n)": 564,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 481,
+    "T(n)": 665,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 482,
+    "T(n)": 766,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 483,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 485,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 486,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 487,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 488,
+    "T(n)": 1372,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 489,
+    "T(n)": 1473,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 490,
+    "T(n)": 584,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 491,
+    "T(n)": 685,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 492,
+    "T(n)": 786,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 493,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 495,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 496,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 497,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 498,
+    "T(n)": 1392,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 499,
+    "T(n)": 1493,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 500,
+    "T(n)": 505,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 501,
+    "T(n)": 606,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 502,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 503,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 504,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 506,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 507,
+    "T(n)": 1212,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 508,
+    "T(n)": 1313,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 509,
+    "T(n)": 1414,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 510,
+    "T(n)": 525,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 511,
+    "T(n)": 626,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 512,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 513,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 514,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 516,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 517,
+    "T(n)": 1232,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 518,
+    "T(n)": 1333,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 519,
+    "T(n)": 1434,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 520,
+    "T(n)": 545,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 521,
+    "T(n)": 646,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 522,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 523,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 524,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 526,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 527,
+    "T(n)": 1252,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 528,
+    "T(n)": 1353,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 529,
+    "T(n)": 1454,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 530,
+    "T(n)": 565,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 531,
+    "T(n)": 666,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 532,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 533,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 534,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 536,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 537,
+    "T(n)": 1272,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 538,
+    "T(n)": 1373,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 539,
+    "T(n)": 1474,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 540,
+    "T(n)": 585,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 541,
+    "T(n)": 686,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 542,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 543,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 544,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 546,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 547,
+    "T(n)": 1292,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 548,
+    "T(n)": 1393,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 549,
+    "T(n)": 1494,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 550,
+    "T(n)": 605,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 551,
+    "T(n)": 706,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 552,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 553,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 554,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 556,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 557,
+    "T(n)": 1312,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 558,
+    "T(n)": 1413,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 559,
+    "T(n)": 1514,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 560,
+    "T(n)": 625,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 561,
+    "T(n)": 726,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 562,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 563,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 564,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 566,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 567,
+    "T(n)": 1332,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 568,
+    "T(n)": 1433,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 569,
+    "T(n)": 1534,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 570,
+    "T(n)": 645,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 571,
+    "T(n)": 746,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 572,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 573,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 574,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 576,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 577,
+    "T(n)": 1352,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 578,
+    "T(n)": 1453,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 579,
+    "T(n)": 1554,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 580,
+    "T(n)": 665,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 581,
+    "T(n)": 766,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 582,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 583,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 584,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 586,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 587,
+    "T(n)": 1372,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 588,
+    "T(n)": 1473,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 589,
+    "T(n)": 1574,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 590,
+    "T(n)": 685,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 591,
+    "T(n)": 786,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 592,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 593,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 594,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 596,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 597,
+    "T(n)": 1392,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 598,
+    "T(n)": 1493,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 599,
+    "T(n)": 1594,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 600,
+    "T(n)": 606,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 601,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 602,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 603,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 604,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 605,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 607,
+    "T(n)": 1313,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 608,
+    "T(n)": 1414,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 609,
+    "T(n)": 1515,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 610,
+    "T(n)": 626,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 611,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 612,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 613,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 614,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 615,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 617,
+    "T(n)": 1333,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 618,
+    "T(n)": 1434,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 619,
+    "T(n)": 1535,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 620,
+    "T(n)": 646,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 621,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 622,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 623,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 624,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 625,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 627,
+    "T(n)": 1353,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 628,
+    "T(n)": 1454,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 629,
+    "T(n)": 1555,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 630,
+    "T(n)": 666,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 631,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 632,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 633,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 634,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 635,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 637,
+    "T(n)": 1373,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 638,
+    "T(n)": 1474,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 639,
+    "T(n)": 1575,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 640,
+    "T(n)": 686,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 641,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 642,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 643,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 644,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 645,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 647,
+    "T(n)": 1393,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 648,
+    "T(n)": 1494,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 649,
+    "T(n)": 1595,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 650,
+    "T(n)": 706,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 651,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 652,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 653,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 654,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 655,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 657,
+    "T(n)": 1413,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 658,
+    "T(n)": 1514,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 659,
+    "T(n)": 1615,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 660,
+    "T(n)": 726,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 661,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 662,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 663,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 664,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 665,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 667,
+    "T(n)": 1433,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 668,
+    "T(n)": 1534,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 669,
+    "T(n)": 1635,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 670,
+    "T(n)": 746,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 671,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 672,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 673,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 674,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 675,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 677,
+    "T(n)": 1453,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 678,
+    "T(n)": 1554,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 679,
+    "T(n)": 1655,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 680,
+    "T(n)": 766,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 681,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 682,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 683,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 684,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 685,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 687,
+    "T(n)": 1473,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 688,
+    "T(n)": 1574,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 689,
+    "T(n)": 1675,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 690,
+    "T(n)": 786,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 691,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 692,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 693,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 694,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 695,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 697,
+    "T(n)": 1493,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 698,
+    "T(n)": 1594,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 699,
+    "T(n)": 1695,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 700,
+    "T(n)": 707,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 701,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 702,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 703,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 704,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 705,
+    "T(n)": 1212,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 706,
+    "T(n)": 1313,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 708,
+    "T(n)": 1515,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 709,
+    "T(n)": 1616,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 710,
+    "T(n)": 727,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 711,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 712,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 713,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 714,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 715,
+    "T(n)": 1232,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 716,
+    "T(n)": 1333,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 718,
+    "T(n)": 1535,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 719,
+    "T(n)": 1636,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 720,
+    "T(n)": 747,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 721,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 722,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 723,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 724,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 725,
+    "T(n)": 1252,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 726,
+    "T(n)": 1353,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 728,
+    "T(n)": 1555,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 729,
+    "T(n)": 1656,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 730,
+    "T(n)": 767,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 731,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 732,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 733,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 734,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 735,
+    "T(n)": 1272,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 736,
+    "T(n)": 1373,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 738,
+    "T(n)": 1575,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 739,
+    "T(n)": 1676,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 740,
+    "T(n)": 787,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 741,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 742,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 743,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 744,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 745,
+    "T(n)": 1292,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 746,
+    "T(n)": 1393,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 748,
+    "T(n)": 1595,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 749,
+    "T(n)": 1696,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 750,
+    "T(n)": 807,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 751,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 752,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 753,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 754,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 755,
+    "T(n)": 1312,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 756,
+    "T(n)": 1413,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 758,
+    "T(n)": 1615,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 759,
+    "T(n)": 1716,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 760,
+    "T(n)": 827,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 761,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 762,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 763,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 764,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 765,
+    "T(n)": 1332,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 766,
+    "T(n)": 1433,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 768,
+    "T(n)": 1635,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 769,
+    "T(n)": 1736,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 770,
+    "T(n)": 847,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 771,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 772,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 773,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 774,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 775,
+    "T(n)": 1352,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 776,
+    "T(n)": 1453,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 778,
+    "T(n)": 1655,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 779,
+    "T(n)": 1756,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 780,
+    "T(n)": 867,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 781,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 782,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 783,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 784,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 785,
+    "T(n)": 1372,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 786,
+    "T(n)": 1473,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 788,
+    "T(n)": 1675,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 789,
+    "T(n)": 1776,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 790,
+    "T(n)": 887,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 791,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 792,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 793,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 794,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 795,
+    "T(n)": 1392,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 796,
+    "T(n)": 1493,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 798,
+    "T(n)": 1695,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 799,
+    "T(n)": 1796,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 800,
+    "T(n)": 808,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 801,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 802,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 803,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 804,
+    "T(n)": 1212,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 805,
+    "T(n)": 1313,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 806,
+    "T(n)": 1414,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 807,
+    "T(n)": 1515,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 809,
+    "T(n)": 1717,
+    "A_robust_Tn": 12,
+    "persists": true
+  },
+  {
+    "n": 810,
+    "T(n)": 828,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 811,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 812,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 813,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 814,
+    "T(n)": 1232,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 815,
+    "T(n)": 1333,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 816,
+    "T(n)": 1434,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 817,
+    "T(n)": 1535,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 819,
+    "T(n)": 1737,
+    "A_robust_Tn": 12,
+    "persists": true
+  },
+  {
+    "n": 820,
+    "T(n)": 848,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 821,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 822,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 823,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 824,
+    "T(n)": 1252,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 825,
+    "T(n)": 1353,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 826,
+    "T(n)": 1454,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 827,
+    "T(n)": 1555,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 829,
+    "T(n)": 1757,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 830,
+    "T(n)": 868,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 831,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 832,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 833,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 834,
+    "T(n)": 1272,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 835,
+    "T(n)": 1373,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 836,
+    "T(n)": 1474,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 837,
+    "T(n)": 1575,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 839,
+    "T(n)": 1777,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 840,
+    "T(n)": 888,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 841,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 842,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 843,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 844,
+    "T(n)": 1292,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 845,
+    "T(n)": 1393,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 846,
+    "T(n)": 1494,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 847,
+    "T(n)": 1595,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 849,
+    "T(n)": 1797,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 850,
+    "T(n)": 908,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 851,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 852,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 853,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 854,
+    "T(n)": 1312,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 855,
+    "T(n)": 1413,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 856,
+    "T(n)": 1514,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 857,
+    "T(n)": 1615,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 859,
+    "T(n)": 1817,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 860,
+    "T(n)": 928,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 861,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 862,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 863,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 864,
+    "T(n)": 1332,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 865,
+    "T(n)": 1433,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 866,
+    "T(n)": 1534,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 867,
+    "T(n)": 1635,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 869,
+    "T(n)": 1837,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 870,
+    "T(n)": 948,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 871,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 872,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 873,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 874,
+    "T(n)": 1352,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 875,
+    "T(n)": 1453,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 876,
+    "T(n)": 1554,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 877,
+    "T(n)": 1655,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 879,
+    "T(n)": 1857,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 880,
+    "T(n)": 968,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 881,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 882,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 883,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 884,
+    "T(n)": 1372,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 885,
+    "T(n)": 1473,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 886,
+    "T(n)": 1574,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 887,
+    "T(n)": 1675,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 889,
+    "T(n)": 1877,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 890,
+    "T(n)": 988,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 891,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 892,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 893,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 894,
+    "T(n)": 1392,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 895,
+    "T(n)": 1493,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 896,
+    "T(n)": 1594,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 897,
+    "T(n)": 1695,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 899,
+    "T(n)": 1897,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 900,
+    "T(n)": 909,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 901,
+    "T(n)": 1010,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 902,
+    "T(n)": 1111,
+    "A_robust_Tn": 0,
+    "persists": false
+  },
+  {
+    "n": 903,
+    "T(n)": 1212,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 904,
+    "T(n)": 1313,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 905,
+    "T(n)": 1414,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 906,
+    "T(n)": 1515,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 907,
+    "T(n)": 1616,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 908,
+    "T(n)": 1717,
+    "A_robust_Tn": 12,
+    "persists": true
+  },
+  {
+    "n": 910,
+    "T(n)": 929,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 911,
+    "T(n)": 1030,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 912,
+    "T(n)": 1131,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 913,
+    "T(n)": 1232,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 914,
+    "T(n)": 1333,
+    "A_robust_Tn": 2,
+    "persists": true
+  },
+  {
+    "n": 915,
+    "T(n)": 1434,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 916,
+    "T(n)": 1535,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 917,
+    "T(n)": 1636,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 918,
+    "T(n)": 1737,
+    "A_robust_Tn": 12,
+    "persists": true
+  },
+  {
+    "n": 920,
+    "T(n)": 949,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 921,
+    "T(n)": 1050,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 922,
+    "T(n)": 1151,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 923,
+    "T(n)": 1252,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 924,
+    "T(n)": 1353,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 925,
+    "T(n)": 1454,
+    "A_robust_Tn": 4,
+    "persists": true
+  },
+  {
+    "n": 926,
+    "T(n)": 1555,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 927,
+    "T(n)": 1656,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 928,
+    "T(n)": 1757,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 930,
+    "T(n)": 969,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 931,
+    "T(n)": 1070,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 932,
+    "T(n)": 1171,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 933,
+    "T(n)": 1272,
+    "A_robust_Tn": 6,
+    "persists": true
+  },
+  {
+    "n": 934,
+    "T(n)": 1373,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 935,
+    "T(n)": 1474,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 936,
+    "T(n)": 1575,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 937,
+    "T(n)": 1676,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 938,
+    "T(n)": 1777,
+    "A_robust_Tn": 8,
+    "persists": true
+  },
+  {
+    "n": 940,
+    "T(n)": 989,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 941,
+    "T(n)": 1090,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 942,
+    "T(n)": 1191,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 943,
+    "T(n)": 1292,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 944,
+    "T(n)": 1393,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 945,
+    "T(n)": 1494,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 946,
+    "T(n)": 1595,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 947,
+    "T(n)": 1696,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 948,
+    "T(n)": 1797,
+    "A_robust_Tn": 10,
+    "persists": true
+  },
+  {
+    "n": 950,
+    "T(n)": 1009,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 951,
+    "T(n)": 1110,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 952,
+    "T(n)": 1211,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 953,
+    "T(n)": 1312,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 954,
+    "T(n)": 1413,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 955,
+    "T(n)": 1514,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 956,
+    "T(n)": 1615,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 957,
+    "T(n)": 1716,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 958,
+    "T(n)": 1817,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 960,
+    "T(n)": 1029,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 961,
+    "T(n)": 1130,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 962,
+    "T(n)": 1231,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 963,
+    "T(n)": 1332,
+    "A_robust_Tn": 1,
+    "persists": true
+  },
+  {
+    "n": 964,
+    "T(n)": 1433,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 965,
+    "T(n)": 1534,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 966,
+    "T(n)": 1635,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 967,
+    "T(n)": 1736,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 968,
+    "T(n)": 1837,
+    "A_robust_Tn": 13,
+    "persists": true
+  },
+  {
+    "n": 970,
+    "T(n)": 1049,
+    "A_robust_Tn": 15,
+    "persists": true
+  },
+  {
+    "n": 971,
+    "T(n)": 1150,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 972,
+    "T(n)": 1251,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 973,
+    "T(n)": 1352,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 974,
+    "T(n)": 1453,
+    "A_robust_Tn": 3,
+    "persists": true
+  },
+  {
+    "n": 975,
+    "T(n)": 1554,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 976,
+    "T(n)": 1655,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 977,
+    "T(n)": 1756,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 978,
+    "T(n)": 1857,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 980,
+    "T(n)": 1069,
+    "A_robust_Tn": 17,
+    "persists": true
+  },
+  {
+    "n": 981,
+    "T(n)": 1170,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 982,
+    "T(n)": 1271,
+    "A_robust_Tn": 5,
+    "persists": true
+  },
+  {
+    "n": 983,
+    "T(n)": 1372,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 984,
+    "T(n)": 1473,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 985,
+    "T(n)": 1574,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 986,
+    "T(n)": 1675,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 987,
+    "T(n)": 1776,
+    "A_robust_Tn": 7,
+    "persists": true
+  },
+  {
+    "n": 988,
+    "T(n)": 1877,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 990,
+    "T(n)": 1089,
+    "A_robust_Tn": 19,
+    "persists": true
+  },
+  {
+    "n": 991,
+    "T(n)": 1190,
+    "A_robust_Tn": 11,
+    "persists": true
+  },
+  {
+    "n": 992,
+    "T(n)": 1291,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 993,
+    "T(n)": 1392,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 994,
+    "T(n)": 1493,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 995,
+    "T(n)": 1594,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 996,
+    "T(n)": 1695,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 997,
+    "T(n)": 1796,
+    "A_robust_Tn": 9,
+    "persists": true
+  },
+  {
+    "n": 998,
+    "T(n)": 1897,
+    "A_robust_Tn": 9,
+    "persists": true
+  }
+]

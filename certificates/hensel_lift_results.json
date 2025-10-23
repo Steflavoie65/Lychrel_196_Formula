@@ -1,0 +1,485 @@
+{
+  "14456": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.001993894577026367
+  },
+  "24242": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009996891021728516
+  },
+  "10301": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "10213": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009942054748535156
+  },
+  "12121": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "12324": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.00099945068359375
+  },
+  "41204": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009784698486328125
+  },
+  "23222": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009999275207519531
+  },
+  "11117": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0010340213775634766
+  },
+  "34243": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "14342": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009949207305908203
+  },
+  "20091": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "10302": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0010004043579101562
+  },
+  "15241": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0010046958923339844
+  },
+  "11422": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "32122": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009984970092773438
+  },
+  "22121": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009965896606445312
+  },
+  "13430": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "10310": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0009963512420654297
+  },
+  "42113": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0
+  },
+  "41414": {
+    "minor_used": [
+      0,
+      3
+    ],
+    "base_c": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hensel_lift_success": true,
+    "reached_k": 120,
+    "final_c_repr": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "time_s": 0.0010030269622802734
+  }
+}

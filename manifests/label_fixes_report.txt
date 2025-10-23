@@ -1,0 +1,58 @@
+Fixed file: f:\Dossier_Lychrel_Important\Soumission_Pairs\lychrel_correctif_fixed.tex
+Mappings (original -> new) for duplicate labels:
+subsec:local_comp -> subsec:local_comp__dup1
+subsec:combined -> subsec:combined__dup1
+lem:reduction_nonexist-1 -> lem:reduction_nonexist-1__dup1
+thm:tower-1 -> thm:tower-1__dup1
+lem:mod_p_lift-1 -> lem:mod_p_lift-1__dup1, lem:mod_p_lift-1__dup2
+cor:prime_to_power-1 -> cor:prime_to_power-1__dup1
+thm:196_hensel-1 -> thm:196_hensel-1__dup1
+lem:mod_p_lift-2 -> lem:mod_p_lift-2__dup1
+thm:196_hensel -> thm:196_hensel__dup1, thm:196_hensel__dup2, thm:196_hensel__dup3, thm:196_hensel__dup4, thm:196_hensel__dup5, thm:196_hensel__dup6, thm:196_hensel__dup7
+lem:mod_p_lift-3 -> lem:mod_p_lift-3__dup1
+lem:mod_p_lift -> lem:mod_p_lift__dup1, lem:mod_p_lift__dup2, lem:mod_p_lift__dup3, lem:mod_p_lift__dup4, lem:mod_p_lift__dup5, lem:mod_p_lift__dup6, lem:mod_p_lift__dup7, lem:mod_p_lift__dup8, lem:mod_p_lift__dup9
+lem:reduction_nonexist -> lem:reduction_nonexist__dup1, lem:reduction_nonexist__dup2, lem:reduction_nonexist__dup3, lem:reduction_nonexist__dup4
+thm:tower -> thm:tower__dup1, thm:tower__dup2, thm:tower__dup3, thm:tower__dup4
+cor:prime_to_power -> cor:prime_to_power__dup1, cor:prime_to_power__dup2, cor:prime_to_power__dup3, cor:prime_to_power__dup4
+
+Occurrences changed (line:col):
+line 245:66: subsec:local_comp -> subsec:local_comp__dup1
+line 259:60: subsec:combined -> subsec:combined__dup1
+line 775:1: lem:reduction_nonexist-1 -> lem:reduction_nonexist-1__dup1
+line 783:58: thm:tower-1 -> thm:tower-1__dup1
+line 790:1: lem:mod_p_lift-1 -> lem:mod_p_lift-1__dup1
+line 938:1: lem:mod_p_lift-1 -> lem:mod_p_lift-1__dup2
+line 803:74: cor:prime_to_power-1 -> cor:prime_to_power-1__dup1
+line 825:42: thm:196_hensel-1 -> thm:196_hensel-1__dup1
+line 1012:1: lem:mod_p_lift-2 -> lem:mod_p_lift-2__dup1
+line 1491:42: thm:196_hensel -> thm:196_hensel__dup1
+line 1565:42: thm:196_hensel -> thm:196_hensel__dup2
+line 1639:42: thm:196_hensel -> thm:196_hensel__dup3
+line 1713:42: thm:196_hensel -> thm:196_hensel__dup4
+line 1787:42: thm:196_hensel -> thm:196_hensel__dup5
+line 1861:42: thm:196_hensel -> thm:196_hensel__dup6
+line 1935:42: thm:196_hensel -> thm:196_hensel__dup7
+line 1234:1: lem:mod_p_lift-3 -> lem:mod_p_lift-3__dup1
+line 1382:1: lem:mod_p_lift -> lem:mod_p_lift__dup1
+line 1456:1: lem:mod_p_lift -> lem:mod_p_lift__dup2
+line 1530:1: lem:mod_p_lift -> lem:mod_p_lift__dup3
+line 1604:1: lem:mod_p_lift -> lem:mod_p_lift__dup4
+line 1678:1: lem:mod_p_lift -> lem:mod_p_lift__dup5
+line 1752:1: lem:mod_p_lift -> lem:mod_p_lift__dup6
+line 1826:1: lem:mod_p_lift -> lem:mod_p_lift__dup7
+line 1900:1: lem:mod_p_lift -> lem:mod_p_lift__dup8
+line 1974:1: lem:mod_p_lift -> lem:mod_p_lift__dup9
+line 1737:1: lem:reduction_nonexist -> lem:reduction_nonexist__dup1
+line 1811:1: lem:reduction_nonexist -> lem:reduction_nonexist__dup2
+line 1885:1: lem:reduction_nonexist -> lem:reduction_nonexist__dup3
+line 1959:1: lem:reduction_nonexist -> lem:reduction_nonexist__dup4
+line 1745:58: thm:tower -> thm:tower__dup1
+line 1819:58: thm:tower -> thm:tower__dup2
+line 1893:58: thm:tower -> thm:tower__dup3
+line 1967:58: thm:tower -> thm:tower__dup4
+line 1765:74: cor:prime_to_power -> cor:prime_to_power__dup1
+line 1839:74: cor:prime_to_power -> cor:prime_to_power__dup2
+line 1913:74: cor:prime_to_power -> cor:prime_to_power__dup3
+line 1987:74: cor:prime_to_power -> cor:prime_to_power__dup4
+\n[INSERT] henstheorem_insert.tex included into lychrel_correctif_fixed.tex on 2025-10-21T18:20:18.4279303-04:00
+PDF_SHA256: CE0E453B5C1FD69EDB8D5EDB31BDFE6B213DE80687A498A134D9934D96E7EFBC

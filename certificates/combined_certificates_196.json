@@ -1,0 +1,17 @@
+{
+  "certificates": {
+    "local_window": {
+      "path": "verifier/gap3_window8.json",
+      "sha256": "69b1bf7a06413eb6f229d8972d32f101e2482e261b0d235862814f3ae3e85254",
+      "L": 8,
+      "num_windows": 492
+    },
+    "hensel_lift": {
+      "path": "verifier/hensel_lift_results.json",
+      "sha256": "0f359eec308df99fe8ed3f39c16da06628071d0a6b2d90fbda1a2111b5705f74",
+      "max_reached_k": 80,
+      "entries": 21
+    }
+  },
+  "note": "Combined certificate for 196: local-window enumeration (L=8) shows all observed windows are safe; hensel_lift_results.json provides modular lifting checks up to k=60 for many residue classes. Use both as machine-checkable artifacts supporting the persistence of A_robust >= 1."
+}
