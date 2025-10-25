@@ -519,6 +519,53 @@ of the robust invariant under the reverse-and-add operation.
 \end{remark}
 
 % --- End inserted block
+% --- End inserted block
+
+\section*{Numerical Certificates and Reproducibility}
+\addcontentsline{toc}{section}{Numerical Certificates and Reproducibility}
+
+The repository accompanying this manuscript includes machine-readable
+certificates that document the computational verifications used throughout
+the text. In particular, we performed a modular-orbit analysis for the
+initial state $n_0=196$ modulo several moduli $M$ to obtain finite coverings
+by residue classes and to certify each covered class using the Hensel-style
+obstruction tests described in the main body (mod~2 obstruction combined
+with Jacobian non-degeneracy modulo~2).
+
+Summary of the automated results (see \texttt{results/orbit\_moduli\_summary.json}):
+\begin{itemize}
+	\item $M=1024$ (\, $2^{10}$\,): orbit size 52; all 52 representatives were
+		checked and classified \texttt{theoretical\_by\_hensel}.
+	\item $M=4096$ (\, $2^{12}$\,): orbit size 58; all 58 representatives were
+		checked and classified \texttt{theoretical\_by\_hensel}.
+	\item $M=10^{6}$: orbit size 1098; all 1098 representatives were checked
+		and classified \texttt{theoretical\_by\_hensel}.
+\end{itemize}
+
+Detailed, per-module certificate summaries are provided in the repository
+under \texttt{certificates/} (files
+	exttt{orbit\_moduli\_1024.md}, \texttt{orbit\_moduli\_4096.md}, and
+	exttt{orbit\_moduli\_1000000.md}). A compact release archive
+	exttt{release/certificates\_for\_review.zip} bundles these summaries and
+the JSON result file for convenient download by reviewers.
+
+Mathematical remark: each representative was checked for the absence of a
+palindromic solution modulo~2 and for full row-rank of the linearised
+Jacobian modulo~2. When both checks hold (Jacobian non-degenerate), the
+standard Hensel argument used in the manuscript implies the absence of any
+palindromic lift modulo $2^k$ for all $k\ge1$; the text contains the exact
+statement and hypotheses (see Lemma~\ref{lem:C_d} and the discussion in
+Section~''Hensel Lifting Framework'').
+
+Reviewers wishing to reproduce the checks can run the scripts in the
+	exttt{scripts/} folder; for example (from the project root):
+\begin{quote}\small
+	exttt{python .\\scripts\\check\_orbit\_moduli.py --mod 1024 --max-iter 20000}
+\end{quote}
+
+If you prefer, I can move this short section into an appendix or adapt the
+wording; tell me where you want it placed (before the bibliography, in an
+existing appendix, or elsewhere) and I will update the file and commit.
 
 \section{Robust Invariant: Quantity Dimension}
 
