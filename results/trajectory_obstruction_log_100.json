@@ -1,0 +1,1010 @@
+{
+  "config": {
+    "iterations": 100,
+    "start": 196,
+    "kmax": 10,
+    "out": ".\\results\\trajectory_obstruction_log_100.json"
+  },
+  "results": [
+    {
+      "iteration": 0,
+      "n": 196,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 1,
+      "jacobian_vars": 4,
+      "jacobian_rank_mod2": 1,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 1,
+      "n": 887,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 1,
+      "jacobian_vars": 4,
+      "jacobian_rank_mod2": 1,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 2,
+      "n": 1675,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 2,
+      "jacobian_vars": 5,
+      "jacobian_rank_mod2": 2,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 3,
+      "n": 7436,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 2,
+      "jacobian_vars": 5,
+      "jacobian_rank_mod2": 2,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 4,
+      "n": 13783,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 2,
+      "jacobian_vars": 6,
+      "jacobian_rank_mod2": 2,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 5,
+      "n": 52514,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 2,
+      "jacobian_vars": 6,
+      "jacobian_rank_mod2": 2,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 6,
+      "n": 94039,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 2,
+      "jacobian_vars": 6,
+      "jacobian_rank_mod2": 2,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 7,
+      "n": 187088,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 3,
+      "jacobian_vars": 7,
+      "jacobian_rank_mod2": 3,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 8,
+      "n": 1067869,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 3,
+      "jacobian_vars": 8,
+      "jacobian_rank_mod2": 3,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 9,
+      "n": 10755470,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 9,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 10,
+      "n": 18211171,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 9,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 11,
+      "n": 35322452,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 9,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 12,
+      "n": 60744805,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 9,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 13,
+      "n": 111589511,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 10,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 14,
+      "n": 227574622,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 10,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 15,
+      "n": 454050344,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 10,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 16,
+      "n": 897100798,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 4,
+      "jacobian_vars": 10,
+      "jacobian_rank_mod2": 4,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 17,
+      "n": 1794102596,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 5,
+      "jacobian_vars": 11,
+      "jacobian_rank_mod2": 5,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 18,
+      "n": 8746117567,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 5,
+      "jacobian_vars": 11,
+      "jacobian_rank_mod2": 5,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 19,
+      "n": 16403234045,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 5,
+      "jacobian_vars": 12,
+      "jacobian_rank_mod2": 5,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 20,
+      "n": 70446464506,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 5,
+      "jacobian_vars": 12,
+      "jacobian_rank_mod2": 5,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 21,
+      "n": 130992928913,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 6,
+      "jacobian_vars": 13,
+      "jacobian_rank_mod2": 6,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 22,
+      "n": 450822227944,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 6,
+      "jacobian_vars": 13,
+      "jacobian_rank_mod2": 6,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 23,
+      "n": 900544455998,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 6,
+      "jacobian_vars": 13,
+      "jacobian_rank_mod2": 6,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 24,
+      "n": 1800098901007,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 6,
+      "jacobian_vars": 14,
+      "jacobian_rank_mod2": 6,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 25,
+      "n": 8801197801088,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 6,
+      "jacobian_vars": 14,
+      "jacobian_rank_mod2": 6,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 26,
+      "n": 17602285712176,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 7,
+      "jacobian_vars": 15,
+      "jacobian_rank_mod2": 7,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 27,
+      "n": 84724043932847,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 7,
+      "jacobian_vars": 15,
+      "jacobian_rank_mod2": 7,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 28,
+      "n": 159547977975595,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 7,
+      "jacobian_vars": 16,
+      "jacobian_rank_mod2": 7,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 29,
+      "n": 755127757721546,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 7,
+      "jacobian_vars": 16,
+      "jacobian_rank_mod2": 7,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 30,
+      "n": 1400255515443103,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 8,
+      "jacobian_vars": 17,
+      "jacobian_rank_mod2": 8,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 31,
+      "n": 4413700670963144,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 8,
+      "jacobian_vars": 17,
+      "jacobian_rank_mod2": 8,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 32,
+      "n": 8827391431036288,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 8,
+      "jacobian_vars": 17,
+      "jacobian_rank_mod2": 8,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 33,
+      "n": 17653692772973576,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 8,
+      "jacobian_vars": 18,
+      "jacobian_rank_mod2": 8,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 34,
+      "n": 85191620502609247,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 8,
+      "jacobian_vars": 18,
+      "jacobian_rank_mod2": 8,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 35,
+      "n": 159482241005228405,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 9,
+      "jacobian_vars": 19,
+      "jacobian_rank_mod2": 9,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 36,
+      "n": 664304741147513356,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 9,
+      "jacobian_vars": 19,
+      "jacobian_rank_mod2": 9,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 37,
+      "n": 1317620482294916822,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 9,
+      "jacobian_vars": 20,
+      "jacobian_rank_mod2": 9,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 38,
+      "n": 3603815405135183953,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 9,
+      "jacobian_vars": 20,
+      "jacobian_rank_mod2": 9,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 39,
+      "n": 7197630720180367016,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 9,
+      "jacobian_vars": 20,
+      "jacobian_rank_mod2": 9,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 40,
+      "n": 13305261530450734933,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 10,
+      "jacobian_vars": 21,
+      "jacobian_rank_mod2": 10,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 41,
+      "n": 47248966933966985264,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 10,
+      "jacobian_vars": 21,
+      "jacobian_rank_mod2": 10,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 42,
+      "n": 93507933867933969538,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 10,
+      "jacobian_vars": 21,
+      "jacobian_rank_mod2": 10,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 43,
+      "n": 177104867844767940077,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 10,
+      "jacobian_vars": 22,
+      "jacobian_rank_mod2": 10,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 44,
+      "n": 947154635293536341848,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 10,
+      "jacobian_vars": 22,
+      "jacobian_rank_mod2": 10,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 45,
+      "n": 1795298270686072793597,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 11,
+      "jacobian_vars": 23,
+      "jacobian_rank_mod2": 11,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 46,
+      "n": 9749270977546801719568,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 11,
+      "jacobian_vars": 23,
+      "jacobian_rank_mod2": 11,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 47,
+      "n": 18408442064004592449047,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 11,
+      "jacobian_vars": 24,
+      "jacobian_rank_mod2": 11,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 48,
+      "n": 92502871604050616929528,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 11,
+      "jacobian_vars": 24,
+      "jacobian_rank_mod2": 11,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 49,
+      "n": 175095833209091234750057,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 12,
+      "jacobian_vars": 25,
+      "jacobian_rank_mod2": 12,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 50,
+      "n": 925153265399993573340628,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 12,
+      "jacobian_vars": 25,
+      "jacobian_rank_mod2": 12,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 51,
+      "n": 1751196640799987135692157,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 12,
+      "jacobian_vars": 26,
+      "jacobian_rank_mod2": 12,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 52,
+      "n": 9264161958699957602603728,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 12,
+      "jacobian_vars": 26,
+      "jacobian_rank_mod2": 12,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 53,
+      "n": 17537224026299926194218357,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 13,
+      "jacobian_vars": 27,
+      "jacobian_rank_mod2": 13,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 54,
+      "n": 92918473189299188236491928,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 13,
+      "jacobian_vars": 27,
+      "jacobian_rank_mod2": 13,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 55,
+      "n": 175837936477498486373973857,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 13,
+      "jacobian_vars": 28,
+      "jacobian_rank_mod2": 13,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 56,
+      "n": 934217310162393261013712428,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 13,
+      "jacobian_vars": 28,
+      "jacobian_rank_mod2": 13,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 57,
+      "n": 1758434620324786522027424867,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 14,
+      "jacobian_vars": 29,
+      "jacobian_rank_mod2": 14,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 58,
+      "n": 9442681822581660752291773438,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 14,
+      "jacobian_vars": 29,
+      "jacobian_rank_mod2": 14,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 59,
+      "n": 17786453745152322604573635887,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 14,
+      "jacobian_vars": 30,
+      "jacobian_rank_mod2": 14,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 60,
+      "n": 96640091285774647759309104658,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 14,
+      "jacobian_vars": 30,
+      "jacobian_rank_mod2": 14,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 61,
+      "n": 182280281681549295517528109327,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 15,
+      "jacobian_vars": 31,
+      "jacobian_rank_mod2": 15,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 62,
+      "n": 906182107397142240703710191608,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 15,
+      "jacobian_vars": 31,
+      "jacobian_rank_mod2": 15,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 63,
+      "n": 1712373124704184482497411473217,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 15,
+      "jacobian_vars": 32,
+      "jacobian_rank_mod2": 15,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 64,
+      "n": 8836114272647029296571625205388,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 15,
+      "jacobian_vars": 32,
+      "jacobian_rank_mod2": 15,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 65,
+      "n": 17671139534403958504034349321776,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 16,
+      "jacobian_vars": 33,
+      "jacobian_rank_mod2": 16,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 66,
+      "n": 85383533877444544434477942439447,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 16,
+      "jacobian_vars": 33,
+      "jacobian_rank_mod2": 16,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 67,
+      "n": 159876958854887988978955775977805,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 16,
+      "jacobian_vars": 34,
+      "jacobian_rank_mod2": 16,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 68,
+      "n": 668656536414767878767414635656756,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 16,
+      "jacobian_vars": 34,
+      "jacobian_rank_mod2": 16,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 69,
+      "n": 1326313072829535757534829271313622,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 17,
+      "jacobian_vars": 35,
+      "jacobian_rank_mod2": 17,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 70,
+      "n": 3589444802113893332894111974449853,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 17,
+      "jacobian_vars": 35,
+      "jacobian_rank_mod2": 17,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 71,
+      "n": 7178889593228875666877224058899706,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 17,
+      "jacobian_vars": 35,
+      "jacobian_rank_mod2": 17,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 72,
+      "n": 13258878097456662332665448018788423,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 17,
+      "jacobian_vars": 36,
+      "jacobian_rank_mod2": 17,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 73,
+      "n": 45747659181913285659330927106673654,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 17,
+      "jacobian_vars": 36,
+      "jacobian_rank_mod2": 17,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 74,
+      "n": 91385319354816681317562845302348408,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 17,
+      "jacobian_vars": 36,
+      "jacobian_rank_mod2": 17,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 75,
+      "n": 171869639709643252636224690693706727,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 18,
+      "jacobian_vars": 37,
+      "jacobian_rank_mod2": 18,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 76,
+      "n": 899477035806065888888571598630674898,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 18,
+      "jacobian_vars": 37,
+      "jacobian_rank_mod2": 18,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 77,
+      "n": 1797953072701241777777132207161449896,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 18,
+      "jacobian_vars": 38,
+      "jacobian_rank_mod2": 18,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 78,
+      "n": 8787394689723559555548553279865047867,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 18,
+      "jacobian_vars": 38,
+      "jacobian_rank_mod2": 18,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 79,
+      "n": 16474800379447118011108106559729985745,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 19,
+      "jacobian_vars": 39,
+      "jacobian_rank_mod2": 19,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 80,
+      "n": 71233793175007298122189281057030833206,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 19,
+      "jacobian_vars": 39,
+      "jacobian_rank_mod2": 19,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 81,
+      "n": 131467596250025596244378551114170566423,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 19,
+      "jacobian_vars": 40,
+      "jacobian_rank_mod2": 19,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 82,
+      "n": 456132667661181469687074071166866330554,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 19,
+      "jacobian_vars": 40,
+      "jacobian_rank_mod2": 19,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 83,
+      "n": 911166336322351940474038252333632562208,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 19,
+      "jacobian_vars": 40,
+      "jacobian_rank_mod2": 19,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 84,
+      "n": 1713431572655604770948087405557266223327,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 20,
+      "jacobian_vars": 41,
+      "jacobian_rank_mod2": 20,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 85,
+      "n": 8946658200210652579438861471120017566498,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 20,
+      "jacobian_vars": 41,
+      "jacobian_rank_mod2": 20,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 86,
+      "n": 17893315300422394267788614031240046132996,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 20,
+      "jacobian_vars": 42,
+      "jacobian_rank_mod2": 20,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 87,
+      "n": 87816479304635435956564863353640397472867,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 20,
+      "jacobian_vars": 42,
+      "jacobian_rank_mod2": 20,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 88,
+      "n": 164643958609270772803130816807280794934745,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 21,
+      "jacobian_vars": 43,
+      "jacobian_rank_mod2": 21,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 89,
+      "n": 712083455691979390834439093880187654281206,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 21,
+      "jacobian_vars": 43,
+      "jacobian_rank_mod2": 21,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 90,
+      "n": 1314265912473067781768877187859384208661423,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 21,
+      "jacobian_vars": 44,
+      "jacobian_rank_mod2": 21,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 91,
+      "n": 4555933937312655599557549065463126404285554,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 21,
+      "jacobian_vars": 44,
+      "jacobian_rank_mod2": 21,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 92,
+      "n": 9111757983526301209015109021025263797681108,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 21,
+      "jacobian_vars": 44,
+      "jacobian_rank_mod2": 21,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 93,
+      "n": 17123625957151502418030218042061517695252227,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 22,
+      "jacobian_vars": 45,
+      "jacobian_rank_mod2": 22,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 94,
+      "n": 89348885628667526499233299462576693647884398,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 22,
+      "jacobian_vars": 45,
+      "jacobian_rank_mod2": 22,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 95,
+      "n": 178697760268335052998466598925153376306768796,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 22,
+      "jacobian_vars": 46,
+      "jacobian_rank_mod2": 22,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 96,
+      "n": 876565363941686582894131498175687238374565667,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 22,
+      "jacobian_vars": 46,
+      "jacobian_rank_mod2": 22,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 97,
+      "n": 1643130837774473154788262996461373387738131345,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 23,
+      "jacobian_vars": 47,
+      "jacobian_rank_mod2": 23,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 98,
+      "n": 7074449215608204801780891870975118165118444806,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 23,
+      "jacobian_vars": 47,
+      "jacobian_rank_mod2": 23,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 99,
+      "n": 13158897331226320592562872742059146230247889513,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 23,
+      "jacobian_vars": 48,
+      "jacobian_rank_mod2": 23,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    }
+  ]
+}

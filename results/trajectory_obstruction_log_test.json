@@ -1,0 +1,30 @@
+{
+  "config": {
+    "iterations": 2,
+    "start": 196,
+    "kmax": 1,
+    "out": ".\\results\\trajectory_obstruction_log_test.json"
+  },
+  "results": [
+    {
+      "iteration": 0,
+      "n": 196,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 1,
+      "jacobian_vars": 4,
+      "jacobian_rank_mod2": 1,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    },
+    {
+      "iteration": 1,
+      "n": 887,
+      "obstruction_mod2": true,
+      "jacobian_constraints": 1,
+      "jacobian_vars": 4,
+      "jacobian_rank_mod2": 1,
+      "jacobian_full_row_rank": true,
+      "hensel_conclusion": "theoretical_by_hensel"
+    }
+  ]
+}

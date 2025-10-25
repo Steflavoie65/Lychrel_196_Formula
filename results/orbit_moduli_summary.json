@@ -1,0 +1,26 @@
+{
+  "1024": {
+    "orbit_size_mod_M": 52,
+    "cycle_start_index": 7,
+    "checked_representatives": 52,
+    "theoretical_by_hensel_count": 52,
+    "needs_further_check_count": 0,
+    "example_needs_further_check": []
+  },
+  "4096": {
+    "orbit_size_mod_M": 58,
+    "cycle_start_index": 16,
+    "checked_representatives": 58,
+    "theoretical_by_hensel_count": 58,
+    "needs_further_check_count": 0,
+    "example_needs_further_check": []
+  },
+  "1000000": {
+    "orbit_size_mod_M": 1098,
+    "cycle_start_index": 452,
+    "checked_representatives": 1098,
+    "theoretical_by_hensel_count": 1098,
+    "needs_further_check_count": 0,
+    "example_needs_further_check": []
+  }
+}
