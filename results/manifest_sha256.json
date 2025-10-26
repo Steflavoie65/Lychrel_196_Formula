@@ -38,6 +38,10 @@
       "sha256": "0b4a150ca36e3b428ed829d0fa241e3ef9913cd52dbe6d8d4887e025576c3d0c"
     },
     {
+      "path": "results\\manifest_sha256.json",
+      "sha256": "52212dc69eb2af750de4f6062e534d7b67fe487dac84d055ba450358d017cb6d"
+    },
+    {
       "path": "results\\orbit_moduli_summary.json",
       "sha256": "0877ccfe4d1e52b8e57dc509ff572a0a8e6a5b25e8eab538f71a6aa630467376"
     },
@@ -100,6 +104,26 @@
     {
       "path": "results\\trajectory_obstruction_log_test.json",
       "sha256": "7c030605e888c798d3c34c9de7a46199e6032e1007744e6b004231c6173493e6"
+    },
+    {
+      "path": "results\\verify_mod11_1000.json",
+      "sha256": "bae5fd5188f3ee7fec144d6c2b464fee1314ff7093046ff7a75512f4bda3fc46"
+    },
+    {
+      "path": "results\\verify_mod13_1000.json",
+      "sha256": "c6373fe341f6075b20b1aec774541b584e0d27e1c4b9a17fa934d4acb84cbe7d"
+    },
+    {
+      "path": "results\\verify_mod3_1000.json",
+      "sha256": "acf1fd58360c96a3d3eb2b90512bf714e04db06b6bd97aede902438fefe9a9d3"
+    },
+    {
+      "path": "results\\verify_mod5_1000.json",
+      "sha256": "feba8503f91c769318bf28875bf8f654564a2ef876a3f74090d2ad60a84629f9"
+    },
+    {
+      "path": "results\\verify_mod7_1000.json",
+      "sha256": "b8514bc4cf42f316871b3444adc6c8ffe4c5eae299246b9114ff33be28cef6ad"
     }
   ]
 }
