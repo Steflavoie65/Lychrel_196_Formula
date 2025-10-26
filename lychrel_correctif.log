@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.10)  23 OCT 2025 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.10)  26 OCT 2025 08:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,8 +403,7 @@ tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count297
 \l__pdf_internal_box=\box56
-)
-No file lychrel_correctif.aux.
+) (lychrel_correctif.aux)
 \openout1 = `lychrel_correctif.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -442,12 +441,14 @@ ii
 \everyMPtoPDFconversion=\toks34
 )
 Package hyperref Info: Link coloring OFF on input line 36.
+ (lychrel_correctif.out) (lychrel_correctif.out)
 \@outlinefile=\write4
 \openout4 = `lychrel_correctif.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
 
- (C:\Users\stefl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+(C:\Users\stefl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
@@ -456,27 +457,982 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 (C:\Users\stefl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+(import_real_labels.tex) (import_missing_labels.tex)
 
-! LaTeX Error: File `import_real_labels.tex' not found.
+LaTeX Warning: Reference `lem:carry_bound' on page 1 undefined on input line 73
+.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.53 \input{import_real_labels.tex}
-                                   ^^M
-End of file on the terminal!
+LaTeX Warning: Reference `thm:complete_partition' on page 1 undefined on input 
+line 75.
 
- 
+
+LaTeX Warning: Reference `prop:multi_mod' on page 1 undefined on input line 77.
+
+
+
+LaTeX Warning: Reference `prop:hensel_extended' on page 1 undefined on input li
+ne 79.
+
+
+LaTeX Warning: Reference `rem:transfer_status' on page 1 undefined on input lin
+e 82.
+
+
+LaTeX Warning: Reference `lem:carry_bound' on page 1 undefined on input line 83
+.
+
+
+LaTeX Warning: Reference `thm:tower' on page 1 undefined on input line 84.
+
+
+LaTeX Warning: Reference `conj:invariant_persist' on page 1 undefined on input 
+line 85.
+
+
+LaTeX Warning: Reference `conj:196_persist' on page 1 undefined on input line 8
+6.
+
+
+Overfull \hbox (166.9099pt too wide) in paragraph at lines 68--92
+ [] 
+ []
+
+[1
+
+{C:/Users/stefl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 3098) in paragraph at lines 94--98
+[]\T1/cmr/bx/n/12 Legend: []\T1/cmr/m/n/12 PROVEN[] = Rig-or-ous un-con-di-tion
+al proof | []CON-DI-
+ []
+
+[2] [3]
+
+LaTeX Warning: Reference `lem:carry_bound' on page 4 undefined on input line 17
+2.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+19.
+(C:\Users\stefl\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+[4]
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+230.
+ (C:\Users\stefl\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (166.68604pt too wide) in paragraph at lines 230--232
+[]\T1/cmtt/m/n/10.95 python .\validate_aext5.py --min-d 1 --max-d 7 --output ..
+/validation_results_aext5.json 
+ []
+
+
+Overfull \hbox (46.27675pt too wide) in paragraph at lines 240--241
+[]\T1/cmr/m/n/12 La machine-readable cer-tifi-cate est disponible dans \T1/cmtt
+/m/n/12 verifier/gap3_window8.json
+ []
+
+
+Overfull \hbox (106.31635pt too wide) in paragraph at lines 240--241
+\T1/cmr/m/n/12 et a SHA256 di-gest \T1/cmtt/m/n/12 69b1bf7a06413eb6f229d8972d32
+f101e2482e261b0d235862814f3ae3e85254\T1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (31.60115pt too wide) in paragraph at lines 276--279
+[]\T1/cmr/m/n/12 The machine-readable cer-tifi-cate is avail-able in \T1/cmtt/m
+/n/12 verifier/gap3\_window8.json
+ []
+
+
+Overfull \hbox (126.61275pt too wide) in paragraph at lines 276--279
+\T1/cmr/m/n/12 and has SHA256 di-gest \T1/cmtt/m/n/12 69b1bf7a06413eb6f229d8972
+d32f101e2482e261b0d235862814f3ae3e85254\T1/cmr/m/n/12 .
+ []
+
+[5]
+Overfull \hbox (48.34012pt too wide) in paragraph at lines 280--281
+ \T1/cmr/m/n/12 415538E40DF84EAF38D66D754550EE9EFDB30F3BB639B6A8859188C23DBDB19
+A 
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 287--293
+\T1/cmtt/m/n/12 verifier/hensel\_lift\_results.json\T1/cmr/m/n/12 ) for which a
+ nu-meric Hensel-
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 287--293
+\T1/cmr/m/n/12 style anal-y-sis has shown that no so-lu-tion mod-ulo $\OT1/cmr/
+m/n/12 2[]$ \T1/cmr/m/n/12 can be ex-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 287--293
+\T1/cmr/m/n/12 tended in-con-sis-tently up to $\OML/cmm/m/it/12 k \OT1/cmr/m/n/
+12 = 60$ \T1/cmr/m/n/12 (see that file and its SHA256
+ []
+
+
+Overfull \hbox (12.93492pt too wide) in paragraph at lines 287--293
+\T1/cmtt/m/n/12 8e4e1adc91e43bf04349e4a13dff186bda8ef5dbf19da36225ea170f6defe41
+7\T1/cmr/m/n/12 ). 
+ []
+
+
+LaTeX Warning: Reference `subsec:local_comp' on page 6 undefined on input line 
+296.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--298
+[]\T1/cmr/m/n/12 Combining the mod-u-lar cov-er-age (Hensel) doc-u-mented in
+ []
+
+[6] [7]
+Underfull \hbox (badness 6859) in paragraph at lines 410--413
+[]\T1/cmr/m/n/12 This ex-tends The-o-rem []0.9[] by val-i-dat-ing 11 ad-di-tion
+al pairs:
+ []
+
+[8] [9]
+Underfull \hbox (badness 1681) in paragraph at lines 539--540
+[]\T1/cmr/m/n/12 Summary of the au-to-mated re-sults (see \T1/cmtt/m/n/12 resul
+ts/orbit_-moduli_-
+ []
+
+[10]
+Overfull \hbox (395.44249pt too wide) in paragraph at lines 591--593
+[][][]\T1/cmtt/m/n/10.95 cd F:/Dossier_Lychrel_Important/verifier []python .\va
+lidate_aext5.py --min-d 1 --max-d 7 --output ../validation_results_aext5.json 
+ []
+
+[11]
+Underfull \hbox (badness 4467) in paragraph at lines 615--616
+[][]\T1/cmr/bx/n/12 Theorem 1.3 \T1/cmr/m/n/12 (Palin-drome Char-ac-ter-i-za-ti
+on)\T1/cmr/bx/n/12 . []$\OML/cmm/m/it/12 n$ \T1/cmr/m/it/12 is palin-dromic $\O
+MS/cmsy/m/n/12 ,$
+ []
+
+[12] [13]
+Underfull \hbox (badness 6876) in paragraph at lines 733--733
+[]\T1/cmr/bx/n/17.28 Unified Frame-work: Three-Dimensional
+ []
+
+[14]
+Overfull \hbox (46.90013pt too wide) in paragraph at lines 768--771
+\T1/cmr/m/it/12 struc-tion func-tion: $\OML/cmm/m/it/12 O[]\OT1/cmr/m/n/12 (\OM
+L/cmm/m/it/12 n\OT1/cmr/m/n/12 ) = [][] []([]2[]\OML/cmm/m/it/12 ; \OT1/cmr/bx/
+n/12 c\OT1/cmr/m/n/12 )$
+ []
+
+
+LaTeX Warning: Reference `lem:mod_p_lift-1' on page 15 undefined on input line 
+784.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 783--786
+[][]\T1/cmr/bx/n/12 Theorem 5.3 \T1/cmr/m/n/12 (Tower Ob-struc-tion --- tem-per
+ed state-ment)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Sup-pose
+ []
+
+[15]
+
+LaTeX Warning: Reference `lem:mod_p_lift-1' on page 16 undefined on input line 
+808.
+
+[16]
+Underfull \hbox (badness 1975) in paragraph at lines 831--832
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[18]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 19 undefined on input line 85
+8.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 857--860
+[][]\T1/cmr/bx/n/12 Theorem 5.8 \T1/cmr/m/n/12 (Tower Ob-struc-tion --- tem-per
+ed state-ment)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Sup-pose
+ []
+
+
+LaTeX Warning: Reference `lem:mod_p_lift-1' on page 19 undefined on input line 
+882.
+
+[19] [20]
+Underfull \hbox (badness 1975) in paragraph at lines 905--906
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[21]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 22 undefined on input line 93
+2.
+
+[22]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 23 undefined on input line 95
+6.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 23 undefined on input line 95
+6.
+
+[23]
+Underfull \hbox (badness 1975) in paragraph at lines 979--980
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--988
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--988
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[24]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 25 undefined on input line 10
+06.
+
+[25]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 26 undefined on input line 10
+30.
+
+[26]
+Underfull \hbox (badness 1975) in paragraph at lines 1053--1054
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[28]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 29 undefined on input line 10
+80.
+
+
+LaTeX Warning: Reference `lem:mod_p_lift-2' on page 29 undefined on input line 
+1105.
+
+[29] [30]
+Underfull \hbox (badness 1975) in paragraph at lines 1128--1129
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[31]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 32 undefined on input line 11
+55.
+
+[32]
+
+LaTeX Warning: Reference `lem:mod_p_lift-3' on page 33 undefined on input line 
+1180.
+
+[33]
+Underfull \hbox (badness 1975) in paragraph at lines 1203--1204
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1211--1212
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1211--1212
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[35]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 36 undefined on input line 12
+31.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 36 undefined on input line 12
+57.
+
+[36]
+Underfull \hbox (badness 1975) in paragraph at lines 1280--1281
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1289
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1289
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[38]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 39 undefined on input line 13
+08.
+
+[39]
+
+LaTeX Warning: Reference `lem:mod_p_lift-1' on page 40 undefined on input line 
+1336.
+
+[40]
+Underfull \hbox (badness 1975) in paragraph at lines 1359--1360
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1367--1368
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1367--1368
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[41]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 42 undefined on input line 13
+87.
+
+[42]
+
+LaTeX Warning: Reference `lem:mod_p_lift-2' on page 43 undefined on input line 
+1416.
+
+[43]
+Underfull \hbox (badness 1975) in paragraph at lines 1439--1440
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[45]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 46 undefined on input line 14
+69.
+
+[46]
+
+LaTeX Warning: Reference `lem:mod_p_lift-3' on page 47 undefined on input line 
+1498.
+
+
+LaTeX Warning: Reference `thm:196_hensel-3' on page 47 undefined on input line 
+1498.
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 1518--1519
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[48]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 49 undefined on input line 15
+47.
+
+[49]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 50 undefined on input line 15
+75.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 50 undefined on input line 15
+75.
+
+[50]
+Underfull \hbox (badness 1975) in paragraph at lines 1599--1600
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1608
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[51]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 52 undefined on input line 16
+28.
+
+[52]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 53 undefined on input line 16
+57.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 53 undefined on input line 16
+57.
+
+[53]
+Underfull \hbox (badness 1975) in paragraph at lines 1681--1682
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1689--1690
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1689--1690
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[54]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 55 undefined on input line 17
+10.
+
+[55]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 56 undefined on input line 17
+39.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 56 undefined on input line 17
+39.
+
+[56]
+Underfull \hbox (badness 1975) in paragraph at lines 1763--1764
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 1771--1772
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1771--1772
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[58]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 59 undefined on input line 17
+92.
+
+[59]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 60 undefined on input line 18
+20.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 60 undefined on input line 18
+20.
+
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 60 undefined on input line 18
+32.
+
+[60]
+Underfull \hbox (badness 1975) in paragraph at lines 1855--1856
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1864
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1864
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[62]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 63 undefined on input line 18
+82.
+
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 63 undefined on input line 19
+06.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 63 undefined on input line 19
+06.
+
+[63] [64]
+Underfull \hbox (badness 1975) in paragraph at lines 1929--1930
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[65]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 66 undefined on input line 19
+56.
+
+[66]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 67 undefined on input line 19
+80.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 67 undefined on input line 19
+80.
+
+[67]
+Underfull \hbox (badness 1975) in paragraph at lines 2003--2004
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2012
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2012
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[68]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 69 undefined on input line 20
+30.
+
+[69]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 70 undefined on input line 20
+54.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 70 undefined on input line 20
+54.
+
+[70]
+Underfull \hbox (badness 1975) in paragraph at lines 2077--2078
+\T1/cmr/m/n/12 re-sen-ta-tion. The ver-i-fi-ca-tion is short and re-pro-ducible
+; the script
+ []
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 2085--2086
+[]\T1/cmr/m/n/12 Verified ab-sence of lifts up to $\OT1/cmr/m/n/12 2[]$\T1/cmr/
+m/n/12 : an au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2085--2086
+\T1/cmr/m/n/12 Hensel-style lift-ing rou-tine was ex-e-cuted and logged in
+ []
+
+[72]
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 73 undefined on input line 21
+04.
+
+
+LaTeX Warning: Reference `lem:mod_p_lift' on page 73 undefined on input line 21
+28.
+
+[73]
+
+LaTeX Warning: Reference `thm:196_hensel' on page 74 undefined on input line 21
+34.
+
+
+LaTeX Warning: Reference `conj:196_persist' on page 74 undefined on input line 
+2138.
+
+[74]
+Underfull \hbox (badness 5359) in paragraph at lines 2178--2179
+[]\T1/cmr/bx/n/12 Modular ro-bust-ness\T1/cmr/m/n/12 : 74% ob-struc-tion rate a
+cross mod-uli
+ []
+
+[75]
+Underfull \hbox (badness 8189) in paragraph at lines 2209--2209
+[]\T1/cmr/bx/n/17.28 Computational Val-i-da-tions: Three-Gap
+ []
+
+[76] [77]
+
+LaTeX Warning: Reference `rem:transfer_status' on page 78 undefined on input li
+ne 2298.
+
+
+LaTeX Warning: Reference `lem:carry_bound' on page 78 undefined on input line 2
+299.
+
+
+LaTeX Warning: Reference `thm:196_hensel' on page 78 undefined on input line 23
+17.
+
+[78]
+
+LaTeX Warning: Reference `thm:196_hensel' on page 79 undefined on input line 23
+56.
+
+
+LaTeX Warning: Reference `thm:tower' on page 79 undefined on input line 2381.
+
+[79]
+Overfull \hbox (165.16002pt too wide) in paragraph at lines 2434--2448
+ [] 
+ []
+
+[80] [81]
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 2533--2533
+[]\T1/cmtt/m/n/12 # F(c) must be expressed as integer-coefficient polynomials; 
+here we[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 2533--2533
+[]\T1/cmtt/m/n/12 # assume \TS1/cmtt/m/n/12 `\T1/cmtt/m/n/12 data[\TS1/cmtt/m/n
+/12 '\T1/cmtt/m/n/12 polys\TS1/cmtt/m/n/12 '\T1/cmtt/m/n/12 ]\TS1/cmtt/m/n/12 `
+ \T1/cmtt/m/n/12 gives a list of coefficient arrays or a small[] 
+ []
+
+[82]
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 2533--2533
+[]\T1/cmtt/m/n/12 # evaluator function. The implementation depends on how the v
+erifier[] 
+ []
+
+
+Overfull \hbox (35.97098pt too wide) in paragraph at lines 2533--2533
+[]\T1/cmtt/m/n/12 # Build Jacobian matrix by finite differences or symbolic der
+ivatives[] 
+ []
+
+[83]
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 2533--2533
+[]\T1/cmtt/m/n/12 # Example usage depends on evaluator; adapt to your verifier\
+TS1/cmtt/m/n/12 '\T1/cmtt/m/n/12 s output.[] 
+ []
+
+[84] [85]
+Overfull \hbox (14.65002pt too wide) in paragraph at lines 2612--2636
+ [] 
+ []
+
+[86]
+Overfull \hbox (394.15422pt too wide) in paragraph at lines 2640--2641
+[]\T1/cmtt/m/n/12 test\_3gaps\_fast\_20251020\_174028.json \T1/cmr/m/n/12 (SHA2
+56: 3EEF19D115CB06599D10E11E74F47BCCC6DEE14F6AC79DD32DBD1B66A08B7680) 
+ []
+
+
+Overfull \hbox (389.76505pt too wide) in paragraph at lines 2641--2642
+[]\T1/cmtt/m/n/12 test\_extensions\_20251020\_184255.json \T1/cmr/m/n/12 (SHA25
+6: 287DA611948D2AD29A65DACE5E43C7BB511A5C9C8EEA7A32BF6568E4D7EC5B51) 
+ []
+
+[87]
+
+LaTeX Warning: Reference `lem:carry_bound' on page 88 undefined on input line 2
+698.
+
+
+Overfull \hbox (272.71266pt too wide) in paragraph at lines 2729--2765
+ [][] 
+ []
+
+[88] [89]
+Overfull \hbox (239.69623pt too wide) in paragraph at lines 2781--2781
+[]\T1/cmtt/m/n/12 Get-Content .\hensel_lift_results.json -Raw | Out-File ..\\La
+tex\\logs\\hensel_lift_results_2to60.json[] 
+ []
+
+
+Overfull \hbox (186.15637pt too wide) in paragraph at lines 2788--2789
+[]\T1/cmtt/m/n/12 verifier/verify\_196\_mod2.py\T1/cmr/m/n/12 : 3c2f161e243a52c
+0421b02ec891741dc8bf5bd23a9cf0fc08f7ea5fc3de6ab94 
+ []
+
+
+Overfull \hbox (213.46085pt too wide) in paragraph at lines 2789--2790
+[]\T1/cmtt/m/n/12 verifier/check\_jacobian\_mod2.py\T1/cmr/m/n/12 : 3cfe652b2e9
+d919ec6984dc683fde49816117c3368291f6e395e2204c18c00cc 
+ []
+
+
+Overfull \hbox (223.19748pt too wide) in paragraph at lines 2790--2791
+[]\T1/cmtt/m/n/12 verifier/hensel\_lift\_results.json\T1/cmr/m/n/12 : 8e4e1adc9
+1e43bf04349e4a13dff186bda8ef5dbf19da36225ea170f6defe417 
+ []
+
+[90]
+Underfull \hbox (badness 1867) in paragraph at lines 2818--2827
+\T1/cmr/m/n/12 An ad-di-tional machine-verifiable cer-tifi-cate sum-maris-ing t
+he sym-bolic
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 2818--2827
+\T1/cmr/m/n/12 non-de-gen-er-acy checks along the tra-jec-tory of 196 is pro-vi
+ded in
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 2818--2827
+\T1/cmtt/m/n/12 Latex/logs/iterates_nondeg.json\T1/cmr/m/n/12 . This file lists
+, for each $\OML/cmm/m/it/12 k \OT1/cmr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 2829--2839
+\T1/cmr/bx/n/12 straints)[] \T1/cmr/m/n/12 Be-yond the canon-i-cal 196 case, we
+ ex-e-cuted the script
+ []
+
+[91]
+Underfull \hbox (badness 2213) in paragraph at lines 2876--2880
+\T1/cmr/m/n/12 The val-i-da-tion script and re-sults are fully re-pro-ducible: 
+- Source:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2885--2886
+\T1/cmr/m/n/12 To ad-dress the re-main-ing gaps iden-ti-fied in the proof frame
+-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 2885--2886
+\T1/cmr/m/n/12 work, we con-ducted ex-tended com-pu-ta-tional tests us-ing the 
+script
+ []
+
+[92]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 2896.
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 2921--2923
+[]\T1/cmr/bx/n/12 Modulo-2 ob-struc-tion\T1/cmr/m/n/12 : The num-ber $\OML/cmm/
+m/it/12 T[]\OT1/cmr/m/n/12 (196)$ \T1/cmr/m/n/12 ex-hibits a non-
+ []
+
+[93]
+Underfull \hbox (badness 3482) in paragraph at lines 2956--2957
+[][]\T1/cmr/bx/n/12 Theorem 9.1 \T1/cmr/m/n/12 (10,000-It-er-a-tion Hensel Ob-s
+truc-tion)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 For all $\OML/cmm/m/it/12 j \OMS/
+cmsy/m/n/12 2
+ []
+
+
+LaTeX Warning: Reference `lem:hensel' on page 94 undefined on input line 2972.
+
+[94] [95] [96]
+Overfull \hbox (113.0772pt too wide) in paragraph at lines 3080--3092
+ [] 
+ []
+
+[97]
+Underfull \hbox (badness 7631) in paragraph at lines 3142--3142
+[]\T1/cmr/bx/n/17.28 Complete Syn-the-sis: The Three-Gap
+ []
+
+[98] [99]
+Overfull \hbox (47.4904pt too wide) in paragraph at lines 3207--3216
+[] 
+ []
+
+[100]
+Underfull \hbox (badness 5331) in paragraph at lines 3232--3232
+[]\T1/cmr/bx/n/14.4 Significance and Lim-i-ta-tions of the 10,000-
+ []
+
+[101]
+Overfull \hbox (22.57281pt too wide) in paragraph at lines 3285--3298
+ [] 
+ []
+
+[102] [103]
+Underfull \hbox (badness 1038) in paragraph at lines 3367--3367
+[]\T1/cmr/bx/n/17.28 Implications for Re-lated Ly-chrel Can-di-
+ []
+
+[104]
+Overfull \hbox (37.78067pt too wide) in paragraph at lines 3441--3453
+ [] 
+ []
+
+[105] [106]
+Overfull \hbox (172.8833pt too wide) in paragraph at lines 3491--3493
+[]\T1/cmr/m/n/12 Verification hash (SHA-256): \T1/cmtt/m/n/12 8d4d0a5f3c19b47e7
+b18f9ce4c2a67cb6f46fef34d7c4b9b6c59e68d5a5b5b22 
+ []
+
+[107] (lychrel_correctif.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `lychrel_correctif.out' has not changed.
+(rerunfilecheck)             Checksum: 3DB3262B99A2D80BC962C3F872D65A2F;26642.
+ ) 
 Here is how much of TeX's memory you used:
- 11833 strings out of 474485
- 185138 string characters out of 5743734
- 1926542 words of memory out of 5000000
- 33971 multiletter control sequences out of 15000+600000
- 564822 words of font info for 53 fonts, out of 8000000 for 9000
+ 12690 strings out of 474485
+ 198255 string characters out of 5743734
+ 1937542 words of memory out of 5000000
+ 34324 multiletter control sequences out of 15000+600000
+ 583139 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,556b,212s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 75i,13n,79p,759b,733s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt
+1200.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecit1095.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecit1200.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tctt1095.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\stefl\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1200.pk> <C:\Users\stefl\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\stefl\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\stefl\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\
+stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\
+Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk
+> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
+095.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecbx1095.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1440.pk> <C:\Users\stefl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm2074.pk><C:/Users/stefl/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/stefl/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/stefl/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/stefl/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/stefl/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/
+stefl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C
+:/Users/stefl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><C:/Users/stefl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Users/stefl/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr6.pfb><C:/Users/stefl/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Users/stefl/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/stefl/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/stefl/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/stefl/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/st
+efl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pf
+b>
+Output written on lychrel_correctif.pdf (107 pages, 854632 bytes).
+PDF statistics:
+ 2124 PDF objects out of 2487 (max. 8388607)
+ 453 named destinations out of 1000 (max. 500000)
+ 953 words of extra memory for PDF output out of 10000 (max. 10000000)
+

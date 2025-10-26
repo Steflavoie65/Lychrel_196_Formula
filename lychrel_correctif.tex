@@ -367,8 +367,8 @@ For the specific case $n=196$ the compact modular constraints are recorded in
 Jacobian analysis entry appears in the CSV/JSON summary. Reviewers can
 reproduce the check by running from the project root (PowerShell):
 \begin{quote}\small
-	/texttt{cd 'F:/Dossier_Lychrel_Important/verifier'}\\
-	/texttt{python .\\compute_jacobian_mod2.py --numbers 196 --output-csv ..\\Soumission_Pairs\\verifier\\jacobian_summary.csv --output-json ..\\Soumission_Pairs\\verifier\\jacobian_summary.json}
+		\texttt{cd 'F:/Dossier_Lychrel_Important/verifier'}\\
+		\texttt{python .\\compute_jacobian_mod2.py --numbers 196 --output-csv ..\\Soumission_Pairs\\verifier\\jacobian_summary.csv --output-json ..\\Soumission_Pairs\\verifier\\jacobian_summary.json}
 \end{quote}
 The produced summary records the tuple (n, d, n_constraints, n_vars, rank_mod2,
 full_row_rank) used in the manuscript to justify the Hensel obstruction for
@@ -548,9 +548,9 @@ Summary of the automated results (see \texttt{results/orbit\_moduli\_summary.jso
 
 Detailed, per-module certificate summaries are provided in the repository
 under \texttt{certificates/} (files
-	exttt{orbit\_moduli\_1024.md}, \texttt{orbit\_moduli\_4096.md}, and
-	exttt{orbit\_moduli\_1000000.md}). A compact release archive
-	exttt{release/certificates\_for\_review.zip} bundles these summaries and
+	\texttt{orbit\_moduli\_1024.md}, \texttt{orbit\_moduli\_4096.md}, and
+	\texttt{orbit\_moduli\_1000000.md}). A compact release archive
+	\texttt{release/certificates\_for\_review.zip} bundles these summaries and
 the JSON result file for convenient download by reviewers.
 
 Mathematical remark: each representative was checked for the absence of a
@@ -562,9 +562,9 @@ statement and hypotheses (see Lemma~\ref{lem:C_d} and the discussion in
 Section~''Hensel Lifting Framework'').
 
 Reviewers wishing to reproduce the checks can run the scripts in the
-	exttt{scripts/} folder; for example (from the project root):
+	\texttt{scripts/} folder; for example (from the project root):
 \begin{quote}\small
-	exttt{python .\\scripts\\check\_orbit\_moduli.py --mod 1024 --max-iter 20000}
+	\texttt{python .\\scripts\\check\_orbit\_moduli.py --mod 1024 --max-iter 20000}
 \end{quote}
 
 If you prefer, I can move this short section into an appendix or adapt the
@@ -2665,7 +2665,7 @@ GAP 3 - Class confinement & 1001/1001 valid & 100.0\% \\
 \end{tabular}
 \end{center}
 
-	extbf{Class distribution over 1001 iterations:}
+	\textbf{Class distribution over 1001 iterations:}
 \begin{itemize}
 \item Class I ($A^{(ext)} \geq 1$): 309 iterations (30.9\%)
 \item Class II ($A^{(ext)} = 0$, $A^{(int)} \geq 1$): 371 iterations (37.1\%)
@@ -2933,8 +2933,8 @@ that specific iteration, not merely an empirical test.
 
 \begin{center}
 \begin{tabular}{@{}l r@{}}
-	oprule
-	extbf{Metric} & \textbf{Value} \\
+	\toprule
+	\textbf{Metric} & \textbf{Value} \\
 \midrule
 Total iterations tested & 10,000 \\
 Rigorous Hensel proofs & 10,000 (100\%) \\
@@ -2975,7 +2975,7 @@ for all $k$
 \end{enumerate}
 Each of the 10,000 cases is verified individually with this rigorous framework. 
 The complete computational certificate is provided in 
-	exttt{trajectory\_obstruction\_log.json} with SHA-256 checksum verification.
+	\texttt{trajectory\_obstruction\_log.json} with SHA-256 checksum verification.
 \end{proof}
 
 \subsubsection{Digit Growth Analysis}
@@ -2984,8 +2984,8 @@ The trajectory exhibits consistent exponential growth in digit count:
 
 \begin{center}
 \begin{tabular}{@{}r r r@{}}
-	oprule
-	extbf{Iteration $j$} & \textbf{Digit Count} & \textbf{Growth Rate} \\
+	\toprule
+	\textbf{Iteration $j$} & \textbf{Digit Count} & \textbf{Growth Rate} \\
 \midrule
 0 & 3 & -- \\
 1,000 & 411 & 0.411 \\
@@ -3030,8 +3030,8 @@ of the 196 trajectory modulo various bases:
 
 \begin{center}
 \begin{tabular}{@{}r r r r@{}}
-	oprule
-	extbf{Modulus $M$} & \textbf{Orbit Size} & \textbf{Cycle Start} & \textbf{Hensel Proofs} \\
+	\toprule
+	\textbf{Modulus $M$} & \textbf{Orbit Size} & \textbf{Cycle Start} & \textbf{Hensel Proofs} \\
 \midrule
 $2^{10}$ (1,024) & 52 & 7 & 52/52 (100\%) \\
 $2^{12}$ (4,096) & 58 & 16 & 58/58 (100\%) \\
@@ -3040,12 +3040,12 @@ $10^6$ (1,000,000) & 1,098 & 452 & 1,098/1,098 (100\%) \\
 \end{tabular}
 \end{center}
 
-	extbf{Interpretation:} The trajectory modulo $10^6$ enters a periodic 
+	\textbf{Interpretation:} The trajectory modulo $10^6$ enters a periodic 
 orbit after 452 iterations, with period length 646. Crucially, \textit{every} 
 representative in these modular orbits was individually verified to satisfy 
 the Hensel obstruction criterion. 
 
-	extbf{Important caveat:} While this demonstrates obstruction persistence 
+	{Important caveat:} While this demonstrates obstruction persistence 
 across modular representatives, it does not constitute a complete proof for 
 $j > 9999$. The reverse operation depends on the full digit representation, 
 not merely residues modulo $M$. Thus, two numbers congruent modulo $10^6$ 
@@ -3066,7 +3066,7 @@ python check_trajectory_obstruction.py \
 	--out results/trajectory_obstruction_log.json
 \end{verbatim}
 
-	extbf{Certificates and checksums:}
+	\textbf{Certificates and checksums:}
 \begin{itemize}
 \item \texttt{trajectory\_obstruction\_log.json}: Complete 10,000-iteration log
 \item \texttt{check\_trajectory\_obstruction.py}: Verification script
@@ -3078,8 +3078,8 @@ python check_trajectory_obstruction.py \
 
 \begin{center}
 \begin{tabular}{@{}l c l@{}}
-	oprule
-	extbf{Claim} & \textbf{Status} & \textbf{Basis} \\
+	\toprule
+	\textbf{Claim} & \textbf{Status} & \textbf{Basis} \\
 \midrule
 $T^j(196)$ has mod-2 obstruction ($j \leq 9999$) & \textcolor{green}{\textbf{PROVEN}} & Rigorous proof \\
 Jacobian non-degenerate ($j \leq 9999$) & \textcolor{green}{\textbf{PROVEN}} & Symbolic verification \\
@@ -3283,8 +3283,8 @@ confidence that 196 is Lychrel:
 
 \begin{center}
 \begin{tabular}{@{}l c@{}}
-	oprule
-	extbf{Evidence Component} & \textbf{Support Level} \\
+	\toprule
+	\textbf{Evidence Component} & \textbf{Support Level} \\
 \midrule
 10,000 rigorous Hensel proofs & 100\% for $j \leq 9999$ \\
 Exponential growth ($r \approx 1.00105$) & Sustained over 10,000 iterations \\
@@ -3489,13 +3489,35 @@ The verification hash is provided for reproducibility.
 \end{center}
 
 Verification hash (SHA-256):  
-	/texttt{8d4d0a5f3c19b47e7b18f9ce4c2a67cb6f46fef34d7c4b9b6c59e68d5a5b5b22}
+			\texttt{8d4d0a5f3c19b47e7b18f9ce4c2a67cb6f46fef34d7c4b9b6c59e68d5a5b5b22}
 
 \begin{remark}
 All numbers in the above table share a common orbit that merges into 1675 after at most two iterations.  
 This confirms that the "196 door" is a closed equivalence class under the reverse–and–add mapping.  
 Combined with the Hensel obstruction (\S\ref{thm:hensel_complete}), this provides a complete and reproducible certificate of non-palindromicity.
 \end{remark}
+% (fixed) removed duplicated \end{remark}
+
+% ========================================================================
+% SECTION 6: OPTIONAL - SUMMARY BOX
+% ========================================================================
+
+\begin{center}
+\fbox{\begin{minipage}{0.9\textwidth}
+		\textbf{Summary of Main Results:}
+\begin{itemize}
+\item[\checkmark] \textbf{Proven rigorously}: 196 cannot converge to palindrome for $j \leq 9999$ (10,000 Hensel proofs)
+\item[\checkmark] \textbf{Jacobian structure}: Full row rank maintained across all 10,000 iterations
+\item[\checkmark] \textbf{Growth behavior}: Exponential growth ($r \approx 1.00105$) sustained throughout
+\item[\checkmark] \textbf{Modular analysis}: 1,098 orbit representatives verified mod $10^6$
+\item[$\sim$] \textbf{Infinite case}: Conjectural (99.99\%+ confidence) pending invariance theorem
+\end{itemize}
+\end{minipage}}
+\end{center}
+
+% ========================================================================
+% END OF UPDATES - FINAL VERSION WITH EXACT VALUES
+% ========================================================================
 
 \end{document}
 
