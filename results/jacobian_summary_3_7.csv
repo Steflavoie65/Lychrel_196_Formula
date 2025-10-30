@@ -1,0 +1,6 @@
+d,full_row_rank,n,n_constraints,n_vars,rank_mod2
+1,True,3,0,2,0
+1,True,4,0,2,0
+1,True,5,0,2,0
+1,True,6,0,2,0
+1,True,7,0,2,0

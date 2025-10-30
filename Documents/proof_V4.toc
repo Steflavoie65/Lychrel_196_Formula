@@ -1,0 +1,78 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}\textcolor {blue}{Definitions and Notation}}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.0.1}Basic Operations}{3}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.4.1}Digit Representation}{3}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Carry Mechanism}{3}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Asymmetry Measures}{3}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.8.1}Advanced Mathematical Framework}{4}{subsection.1.8.1}%
+\contentsline {section}{\numberline {2}\textcolor {blue}{Fundamental Theorems}}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1.1}Universal Obstruction Propagation}{4}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.7.1}Growth of the Phi Invariant}{6}{subsection.2.7.1}%
+\contentsline {section}{\numberline {3}\textcolor {blue}{Hensel Lifting Framework}}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.0.1}Modular Obstruction Theory}{6}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}Hensel's Lemma (Applied Form)}{6}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.1.1}Algebraic Foundations and Nilpotence}{7}{subsection.3.1.1}%
+\contentsline {section}{\numberline {4}\textcolor {blue}{Main Results for 196}}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.4.1}Growth and Structural Analysis}{9}{subsection.4.4.1}%
+\contentsline {section}{\numberline {5}\textcolor {blue}{Modular Orbit Analysis}}{9}{section.5}%
+\contentsline {section}{\numberline {6}\textcolor {blue}{Gap Theorems and Class Coverage}}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.0.1}Three-Gap Framework}{9}{subsection.6.0.1}%
+\contentsline {subsection}{\numberline {6.4.1}Class Coverage}{10}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.5.1}Quantitative Bounds on $\Arobust $}{10}{subsection.6.5.1}%
+\contentsline {section}{\numberline {7}\textcolor {blue}{Entropy: Distribution Dimension}}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.0.1}Information-Theoretic Foundation}{10}{subsection.7.0.1}%
+\contentsline {section}{\numberline {8}\textcolor {blue}{Circulation: Flow Dimension}}{11}{section.8}%
+\contentsline {subsection}{\numberline {8.0.1}Dispersion Metric}{11}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {8.1.1}Dynamical Interpretation}{11}{subsection.8.1.1}%
+\contentsline {section}{\numberline {9}\textcolor {blue}{Unified Framework: Three-Dimensional Analysis}}{11}{section.9}%
+\contentsline {subsection}{\numberline {9.0.1}State Space}{11}{subsection.9.0.1}%
+\contentsline {section}{\numberline {10}\textcolor {blue}{Stratified Congruence Analysis}}{11}{section.10}%
+\contentsline {subsection}{\numberline {10.7.1}Application to 196: Detailed Hensel Lifting Analysis}{13}{subsection.10.7.1}%
+\contentsline {subsubsection}{\numberline {10.7.1.1}Hensel Lifting Framework}{13}{subsubsection.10.7.1.1}%
+\contentsline {subsubsection}{\numberline {10.8.0.1}Computational certificate (196)}{13}{subsubsection.10.8.0.1}%
+\contentsline {section}{\numberline {11}Ergodic and Markovian Framework}{13}{section.11}%
+\contentsline {section}{\numberline {12}\textcolor {blue}{Confidence Assessment}}{14}{section.12}%
+\contentsline {subsection}{\numberline {12.0.1}Evidence Convergence}{14}{subsection.12.0.1}%
+\contentsline {subsection}{\numberline {12.0.2}Multiple Independent Barriers}{14}{subsection.12.0.2}%
+\contentsline {subsection}{\numberline {12.0.3}Probabilistic Interpretation}{15}{subsection.12.0.3}%
+\contentsline {subsection}{\numberline {12.0.4}Evidence Hierarchy}{15}{subsection.12.0.4}%
+\contentsline {section}{\numberline {13}Main Theorem}{16}{section.13}%
+\contentsline {section}{\numberline {14}Corollaries and Extensions}{17}{section.14}%
+\contentsline {section}{\numberline {15}Methodology and Reproducibility}{17}{section.15}%
+\contentsline {subsection}{\numberline {15.0.1}Computational Environment}{17}{subsection.15.0.1}%
+\contentsline {subsection}{\numberline {15.0.2}Verification Scripts}{17}{subsection.15.0.2}%
+\contentsline {subsection}{\numberline {15.0.3}Certificates}{18}{subsection.15.0.3}%
+\contentsline {subsection}{\numberline {15.0.4}Towards Mechanical Formalization}{18}{subsection.15.0.4}%
+\contentsline {paragraph}{Nilpotence in Lean (sketch)}{18}{section*.2}%
+\contentsline {paragraph}{Coq/Lean verification notes}{18}{section*.3}%
+\contentsline {section}{\numberline {16}Summary}{19}{section.16}%
+\contentsline {subsection}{\numberline {16.0.1}What is Rigorously Proven}{19}{subsection.16.0.1}%
+\contentsline {subsection}{\numberline {16.0.2}What is Validated Empirically}{19}{subsection.16.0.2}%
+\contentsline {subsection}{\numberline {16.0.3}What Remains Conjectural}{20}{subsection.16.0.3}%
+\contentsline {subsection}{\numberline {16.0.4}Confidence Level}{20}{subsection.16.0.4}%
+\contentsline {section}{\numberline {17}Ultimate Proof of the Lychrel Conjecture for 196}{20}{section.17}%
+\contentsline {subsection}{\numberline {17.0.1}2-adic Structural Framework}{20}{subsection.17.0.1}%
+\contentsline {subsection}{\numberline {17.3.1}Ergodic and Markovian Framework}{20}{subsection.17.3.1}%
+\contentsline {subsection}{\numberline {17.5.1}Spectral and Probabilistic Bounds}{21}{subsection.17.5.1}%
+\contentsline {section}{\numberline {18}References}{21}{section.18}%
+\contentsline {section}{\numberline {A}Key Formulas Reference}{22}{appendix.A}%
+\contentsline {subsection}{\numberline {A.0.1}Asymmetry Measures}{22}{subsection.A.0.1}%
+\contentsline {subsection}{\numberline {A.0.2}Hensel Framework}{22}{subsection.A.0.2}%
+\contentsline {subsection}{\numberline {A.0.3}Growth Model}{22}{subsection.A.0.3}%
+\contentsline {subsection}{\numberline {A.0.4}Probability Bound}{22}{subsection.A.0.4}%
+\contentsline {subsection}{\numberline {A.0.5}Nilpotence and Algebraic Relations}{22}{subsection.A.0.5}%
+\contentsline {subsection}{\numberline {A.0.6}Phi Invariant}{22}{subsection.A.0.6}%
+\contentsline {section}{\numberline {B}Theoretical Proof of the Growth of the Invariant $\Phi $}{22}{appendix.B}%
+\contentsline {subsection}{\numberline {B.0.1}Introduction}{22}{subsection.B.0.1}%
+\contentsline {subsection}{\numberline {B.0.2}Definitions and Notation}{23}{subsection.B.0.2}%
+\contentsline {subsection}{\numberline {B.2.1}Main Theorem}{23}{subsection.B.2.1}%
+\contentsline {subsection}{\numberline {B.3.1}Proof}{23}{subsection.B.3.1}%
+\contentsline {paragraph}{Step 1: Behavior of the 2-adic Valuation.}{23}{section*.4}%
+\contentsline {paragraph}{Step 2: Persistence of Robust Asymmetry.}{23}{section*.5}%
+\contentsline {paragraph}{Step 3: Choice of the Parameter $\alpha $.}{24}{section*.6}%
+\contentsline {paragraph}{Step 4: Strict Growth via Ergodic Argument.}{24}{section*.7}%
+\contentsline {subsection}{\numberline {B.7.1}Corollaries}{24}{subsection.B.7.1}%
+\contentsline {subsection}{\numberline {B.9.1}Computational Validation}{25}{subsection.B.9.1}%
+\contentsline {subsection}{\numberline {B.9.2}Conclusion}{25}{subsection.B.9.2}%
+\contentsline {section}{Appendix C: Validation Scripts}{25}{section*.8}%
+\contentsline {subsection}{C.1 Core Validation Scripts}{25}{section*.9}%

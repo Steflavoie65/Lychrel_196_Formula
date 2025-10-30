@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-10-26T11:27:49.946510",
+  "test_type": "mod5",
+  "parameters": {
+    "n": 196,
+    "max_digits": 20,
+    "iterations": 100
+  },
+  "results": {
+    "mod5_obstruction": true
+  },
+  "execution_time_seconds": 0.008005857467651367
+}
