@@ -2,6 +2,54 @@
   "generated_by": "generate_manifest.py",
   "entries": [
     {
+      "path": "certificates\\combined_certificates_196.json",
+      "sha256": "75c75f9041f62588ac5318464b4c1dcb7cc6e047da25813dbfea10a0d9d53ea3"
+    },
+    {
+      "path": "certificates\\gap3_window8.json",
+      "sha256": "69b1bf7a06413eb6f229d8972d32f101e2482e261b0d235862814f3ae3e85254"
+    },
+    {
+      "path": "certificates\\hensel_lift_results.json",
+      "sha256": "d0df4057d63e64541ebf315e92f0a01e915767d5aa0cf39c5bb663072209268b"
+    },
+    {
+      "path": "certificates\\test_3gaps_enhanced_20251021_154322.json",
+      "sha256": "d8cb97cc5fc7b1cfc9c35e7e6c0402cefbc8b92906f1556cd3eb0a024f0fd2af"
+    },
+    {
+      "path": "certificates\\test_3gaps_enhanced_20251022_151510.json",
+      "sha256": "f76bb1d29643114d7221443e096277d1bf85746aee455d90211caba0d8766cc7"
+    },
+    {
+      "path": "certificates\\test_3gaps_enhanced_20251023_073903.json",
+      "sha256": "80cd23549d9279aaf81f6df6b31899ab94188ffaa8640f2db32257d7081c4601"
+    },
+    {
+      "path": "certificates\\test_3gaps_enhanced_20251023_074034.json",
+      "sha256": "56bb33b5902d5c5e285d2aa4cca8ebed5ddb17f3a1b90e24580fa4b5ddf8de9d"
+    },
+    {
+      "path": "certificates\\validation_results_aext1.json",
+      "sha256": "b41ee8394e3799c49e4851fd573edac5f24d96fcdf311f4f94ee6d134efdfe31"
+    },
+    {
+      "path": "certificates\\validation_results_aext2.json",
+      "sha256": "9b21e6dcd0c4ba6cbbde9464f2dd93060a5e1d292f0f1a48376a86b7b434ebbe"
+    },
+    {
+      "path": "certificates\\validation_results_aext3.json",
+      "sha256": "206c23d8658597ad219cd9fe45abf4670f575bccd0a71b33094700265909f4e7"
+    },
+    {
+      "path": "certificates\\validation_results_aext4.json",
+      "sha256": "7b8fd723965517966a22ee4f1eeb04cd420ea20b8854178746457576fa7bb782"
+    },
+    {
+      "path": "certificates\\validation_results_aext5.json",
+      "sha256": "37ef75f6339257782e72ab9a9ba7484929a19f842d006b570feb200efd327f78"
+    },
+    {
       "path": "results\\attainability_backward_paths_numeric.json",
       "sha256": "7b52da9f3d7029361a92741c8e0f4f63fbd72c45c44ecfe4b7114e4b76e40d3a"
     },
@@ -104,6 +152,10 @@
     {
       "path": "results\\trajectory_obstruction_log_test.json",
       "sha256": "7c030605e888c798d3c34c9de7a46199e6032e1007744e6b004231c6173493e6"
+    },
+    {
+      "path": "results\\validation_results_aext9.json",
+      "sha256": "415538e40df84eaf38d66d754550ee9efdb30f3bb639b6a8859188c23dbdb19a"
     },
     {
       "path": "results\\verify_mod11_1000.json",
